@@ -2,7 +2,6 @@
 
 ## Breaking Bad
 
-![Breaking Bad](https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png)
 
 **Genre:** Crime, Drama, Thriller
 
